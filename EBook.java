@@ -1,0 +1,3 @@
+interface EBook {
+    void display();
+}
